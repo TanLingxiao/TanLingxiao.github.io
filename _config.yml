@@ -2,4 +2,17 @@ theme: jekyll-theme-cayman
 
 title: Lyndon的个人主页
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  扎实的基础知识 + 优秀的工程能力 + 敏锐的业务理解 = 合格的算法工程师 
+header-img: img/background.jpg
+email: tanlingxiao123@163.com
+url: https://tanligxiao.cn
+SEOTitle: Lyndon的主页
+keyword: 算法, 机器学习, 
+
+github_username: TanLingxiao
+
+paginate: 5
+
+gems: [jekyll-paginate]
+
+
