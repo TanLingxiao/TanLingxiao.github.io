@@ -1,14 +1,14 @@
 - title: 福州
   images:
     - link: assets/images/fz1.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: fuzhou1
+      description: 福道掠影
     - link: assets/images/fz2.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: fuzhou2
+      description: 三坊七巷
     - link: assets/images/fz3.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: fuzhou3
+      description: 休闲时间
 
 - title: 青岛
   images:
