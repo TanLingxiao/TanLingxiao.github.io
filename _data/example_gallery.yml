@@ -13,35 +13,47 @@
 - title: 青岛
   images:
     - link: assets/images/qd1.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: qingdao1
+      description: 奥帆中心
     - link: assets/images/qd2.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: qingdao2
+      description: 栈桥海浪
     - link: assets/images/qd3.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: qingdao3
+      description: 信号山
 
 - title: 北京
   images:
     - link: assets/images/bj1.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: beijing1
+      description: 香山红叶
     - link: assets/images/bj2.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: beijing2
+      description: 雨中长城
     - link: assets/images/bj3.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: beijing3
+      description: 宫墙一角
 
 - title: 无锡
   images:
     - link: assets/images/wx1.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: wuxi1
+      description: 高塔
     - link: assets/images/wx2.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: wuxi2
+      description: 杏花
     - link: assets/images/wx3.jpg
-      alt: The alt text for the image
-      description: The image description
+      alt: wuxi3
+      description: 小院
+
+- title: 南靖
+  images:
+    - link: assets/images/nj1.jpg
+      alt: nanjin1
+      description: 土楼夜景
+    - link: assets/images/nj2.jpg
+      alt: nanjin2
+      description: 小酒馆
+    - link: assets/images/nj3.jpg
+      alt: nanjin3
+      description: 慵懒的狗
