@@ -1,27 +1,42 @@
-- title: Image Gallery Title
+- title: 福州
+  images:
+    - link: img/fz1.jpg
+      alt: The alt text for the image
+      description: The image description
+    - link: img/fz2.jpg
+      alt: The alt text for the image
+      description: The image description
+    - link: img/fz3.jpg
+      alt: The alt text for the image
+      description: The image description
+
+- title: 青岛
   images:
     - link: https://via.placeholder.com/800x450
       alt: The alt text for the image
       description: The image description
-      ratio: is-16by9
-    - link: https://via.placeholder.com/800x600
+    - link: https://via.placeholder.com/800x450
       alt: The alt text for the image
       description: The image description
-      ratio: is-4by3
-    - link: https://via.placeholder.com/800x600
+    - link: https://via.placeholder.com/800x450
       alt: The alt text for the image
       description: |-
-        ### A title
+        The *image* **description**
 
-        The *image* **description** can be longer and written in markdown too.
+- title: 北京
+  images:
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: The image description
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: The image description
+    - link: https://via.placeholder.com/800x450
+      alt: The alt text for the image
+      description: |-
+        The *image* **description**
 
-        If you want to describe your image in more detail.
-
-        * Item 1
-        * Item 2
-      ratio: is-4by3
-
-- title: Second Image Gallery Title
+- title: 无锡
   images:
     - link: https://via.placeholder.com/800x450
       alt: The alt text for the image

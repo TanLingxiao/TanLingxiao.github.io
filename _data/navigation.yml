@@ -1,4 +1,4 @@
-- name: 研究汇总
+- name: 探索
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -19,11 +19,11 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-    - name: Image Gallery
+    - name: 生活足迹
       link: /gallery/
 - name: 项目
   link: /products/
-- name: 足迹
+- name: 展示
   link: /showcase/
-- name: 联合博客
+- name: 文章
   link: /blog/

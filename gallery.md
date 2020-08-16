@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Image Gallery
-subtitle: An example image gallery page
-description: A simple image gallery page 
+title: 生活足迹
+subtitle: A image gallery page
+description: A gallery page 
 gallery: example_gallery
 show_sidebar: false
 ---
@@ -67,6 +67,6 @@ In your pages front matter add a gallery with the datafiles filename without the
 
 ```yaml
 layout: page
-title: My Image Gallery
+title: 我的记忆
 gallery: my_gallery
 ```
