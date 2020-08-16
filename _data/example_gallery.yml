@@ -1,12 +1,12 @@
 - title: 福州
   images:
-    - image: /assets/images/fz1.jpg
+    - image: assets/images/fz1.jpg
       alt: The alt text for the image
       description: The image description
-    - image: /assets/images/fz2.jpg
+    - image: assets/images/fz2.jpg
       alt: The alt text for the image
       description: The image description
-    - image: /assets/images/fz3.jpg
+    - image: assets/images/fz3.jpg
       alt: The alt text for the image
       description: The image description
 
