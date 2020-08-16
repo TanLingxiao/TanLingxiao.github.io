@@ -3,7 +3,7 @@ layout: post
 title:  "追风筝的人"
 date:   2019-07-23 08:00:07
 description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
-image: 'https://github.com/TanLingxiao/TanLingxiao.github.io/tree/master/img/people.jpg'
+image: {site.baseurl}/img/people.jpg
 published: true
 tags: 随笔
 ---
