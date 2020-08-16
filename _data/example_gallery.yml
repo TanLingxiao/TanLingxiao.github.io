@@ -12,39 +12,36 @@
 
 - title: 青岛
   images:
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/qd1.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/qd2.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/qd3.jpg
       alt: The alt text for the image
-      description: |-
-        The *image* **description**
+      description: The image description
 
 - title: 北京
   images:
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/bj1.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/bj2.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/bj3.jpg
       alt: The alt text for the image
-      description: |-
-        The *image* **description**
+      description: The image description
 
 - title: 无锡
   images:
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/wx1.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/wx2.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://via.placeholder.com/800x450
+    - link: assets/images/wx3.jpg
       alt: The alt text for the image
-      description: |-
-        The *image* **description**
+      description: The image description
