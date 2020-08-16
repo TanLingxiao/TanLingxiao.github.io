@@ -47,15 +47,5 @@ layout: default
             {{ content }}
         </div>
     </div>
-
-    {% if site.data.reviews[page.product_code] %}
-    <div class="column is-12">
-        <p class="title is-4">Reviews</p>
-        {% for review in site.data.reviews[page.product_code] %}
-        {% include review.html %}
-        {% endfor %}
-    </div>
-    {% endif %}
-
 </div>
 
