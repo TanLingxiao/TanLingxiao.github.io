@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Page With Contents
-subtitle: Example page with contents
+title: Machine learning
+subtitle: 数学之美
 toc: true
 #toc_title: Custom Title
 menubar: example_menu

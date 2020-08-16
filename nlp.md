@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Page With Contents
-subtitle: Example page with contents
+title: Natural language processing
+subtitle: 让程序读懂世界
 toc: true
 #toc_title: Custom Title
 menubar: example_menu

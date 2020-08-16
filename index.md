@@ -1,6 +1,6 @@
 ---
 title: 主页
-subtitle: This is the demo site for Bulma Clean Theme
+subtitle: Hellow World
 layout: page
 callouts: home_callouts
 show_sidebar: true
