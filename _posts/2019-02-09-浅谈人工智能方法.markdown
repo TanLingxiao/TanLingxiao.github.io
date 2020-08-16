@@ -4,7 +4,7 @@ title:  "浅谈人工智能方法"
 date:   2019-02-09 20:00:07
 categories: 随笔
 description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
-image: "img/ai.jpg"
+image: "https://www.tanlingxiao.cn/img/ai.jpg"
 published: true
 ---
 
