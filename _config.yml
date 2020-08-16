@@ -13,6 +13,7 @@ permalink: pretty
 paginate: 5
 paginate_path: "/blog/page:num"
 
+comments: false
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
