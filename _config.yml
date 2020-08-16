@@ -1,14 +1,13 @@
 # Site Settings
-title: LyndonTan的主页
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: LyndonTan's Web
+tagline: LyndonTan's Web
+email: tanlingxiao123@163.com
 description: >
   扎实的基础知识 + 优秀的工程能力 + 敏锐的业务理解 = 合格的算法工程师
-baseurl: 
 url: "https://tanlingxiao.cn"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 
 paginate: 5
@@ -60,7 +59,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "LyndonTan"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
