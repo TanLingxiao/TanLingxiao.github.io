@@ -2,7 +2,7 @@
   items:
     - name: 主页
       link: /
-    - name: Pages
+    - name: 探索
       link: /#
       items:
         - name: Page With Sidebar 
@@ -25,5 +25,5 @@
           link: /sponsors/
         - name: Image Gallery
           link: /gallery/
-    - name: Blog
+    - name: 博客
       link: /blog/
