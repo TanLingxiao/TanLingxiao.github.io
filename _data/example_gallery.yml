@@ -1,12 +1,12 @@
 - title: 福州
   images:
-    - link: https://github.com/TanLingxiao/TanLingxiao.github.io/tree/master/img/fz1.jpg
+    - image: [file://img/fz1.jpg]
       alt: The alt text for the image
       description: The image description
-    - link: https://github.com/TanLingxiao/TanLingxiao.github.io/tree/master/img/fz2.jpg
+    - image: img/fz2.jpg
       alt: The alt text for the image
       description: The image description
-    - link: https://github.com/TanLingxiao/TanLingxiao.github.io/tree/master/img/fz3.jpg
+    - image: img/fz3.jpg
       alt: The alt text for the image
       description: The image description
 
