@@ -1,21 +1,18 @@
 ---
-title: Page without footer
-subtitle: Demo page without footer
+title: Python知识探索
+subtitle: 灵活 快速实现
 layout: page
 show_sidebar: false
 menubar: example_menu
 hide_footer: true
 ---
 
-## Hiding the footer
+## 推荐书籍
 
-If you would like a page without the footer displayed then set hide_footer to true in the page's frontmatter
+《Python CookBook》
 
-```yml
-title: Page without footer
-subtitle: Demo page without footer
-layout: page
-show_sidebar: false
-menubar: example_menu
-hide_footer: true
-```
+《Fluent Python》
+
+《Effective Python》
+
+> [学习网站](https://github.com/vinta/awesome-python)

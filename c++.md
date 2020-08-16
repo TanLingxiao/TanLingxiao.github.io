@@ -1,21 +1,26 @@
 ---
-title: Page without footer
-subtitle: Demo page without footer
+title: C++知识探索
+subtitle: 高效 坚若磐石
 layout: page
 show_sidebar: false
 menubar: example_menu
 hide_footer: true
 ---
 
-## Hiding the footer
+## 推荐书籍
 
-If you would like a page without the footer displayed then set hide_footer to true in the page's frontmatter
+《C++ Primer》
 
-```yml
-title: Page without footer
-subtitle: Demo page without footer
-layout: page
-show_sidebar: false
-menubar: example_menu
-hide_footer: true
-```
+《C++ Templates》
+
+《Effective C++》
+
+《More Effective C++》
+
+《Effective STL》
+
+《Exceptional C++》
+
+《深度探索C++对象模型》
+
+> [学习网站](https://github.com/fffaraz/awesome-cpp)

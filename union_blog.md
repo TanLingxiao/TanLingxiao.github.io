@@ -1,6 +1,6 @@
 ---
-title: My Union Blog
-subtitle: "栖迟于一丘"
+title: 我的联合博客
+subtitle: 栖迟于一丘
 layout: page
 show_sidebar: false
 ---
