@@ -1,6 +1,6 @@
 ---
 title: 主页
-subtitle: Hellow World
+subtitle: Hellow the World
 layout: page
 callouts: home_callouts
 show_sidebar: true

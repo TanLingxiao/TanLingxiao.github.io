@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 生活足迹
-subtitle: A image gallery page
+subtitle: A image gallery
 description: A gallery page 
 gallery: example_gallery
 show_sidebar: false
