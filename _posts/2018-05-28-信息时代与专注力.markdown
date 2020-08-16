@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "如何在信息时代独善其身"
+date:   2018-05-28 10:50:07
+categories: 随笔
+description: "There are many ways to make a website, but what about static site generators"
+image: 'img/information.jpg'
+published: true
+---
+
+待更
