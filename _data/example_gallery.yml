@@ -1,12 +1,12 @@
 - title: 福州
   images:
-    - link: img/fz1.jpg
+    - link: ../img/fz1.jpg
       alt: The alt text for the image
       description: The image description
-    - link: img/fz2.jpg
+    - link: ../img/fz2.jpg
       alt: The alt text for the image
       description: The image description
-    - link: img/fz3.jpg
+    - link: ../img/fz3.jpg
       alt: The alt text for the image
       description: The image description
 
