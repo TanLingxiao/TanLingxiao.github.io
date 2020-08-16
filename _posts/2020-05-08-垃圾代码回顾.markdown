@@ -3,7 +3,7 @@ layout: post
 title: 垃圾代码回顾
 description: How to create a docs site for your project with Bulma Clean Theme 
 date: 2020-05-08 09:00:07
-image: img/code.jpg
+image: ../img/code.jpg
 tags: 随笔
 ---
 
