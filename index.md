@@ -1,5 +1,5 @@
 ---
-title: 介绍
+title: 主页
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
