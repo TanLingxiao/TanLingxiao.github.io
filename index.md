@@ -6,6 +6,7 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
+（如图片不可见请点击[链接](https://tanlingxiao.cn/assets/images/fz2.jpg) 并允许访问）
 # 无聊的话
 
 黑客身在教堂，仰望星空。在IT领域有两本古老的书，1999年出版的《大教堂与市集》以及2004年出版的《黑客与画家》。
