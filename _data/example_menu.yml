@@ -5,8 +5,8 @@
     - name: 探索
       link: /#
       items:
-      - name: 联合博客
-        link: /union_blog/
+      - name: 推荐网站
+        link: /recommend_web/
       - name: C++
         link: /c++/
       - name: Python
@@ -19,6 +19,8 @@
         link: /cv/
       - name: Graph
         link: /graph/
+      - name: Blockchain
+        link: /blockchain/
       - name: 生活足迹
         link: /gallery/
       - name: 联系方式
