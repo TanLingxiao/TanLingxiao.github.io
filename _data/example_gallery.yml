@@ -57,3 +57,39 @@
     - link: assets/images/nj3.jpg
       alt: nanjin3
       description: 土楼夜景
+
+- title: 博尔塔拉
+  images:
+    - link: assets/images/xj1.jpg
+      alt: nanjin1
+      description: 旅途风景
+    - link: assets/images/xj2.jpg
+      alt: nanjin2
+      description: 偶遇天鹅
+    - link: assets/images/xj3.jpg
+      alt: nanjin3
+      description: 赛里木湖
+
+- title: 海南
+  images:
+    - link: assets/images/hn1.jpg
+      alt: nanjin1
+      description: 椰子
+    - link: assets/images/hn2.jpg
+      alt: nanjin2
+      description: 海藻
+    - link: assets/images/hn3.jpg
+      alt: nanjin3
+      description: 大海
+
+- title: 济南
+  images:
+    - link: assets/images/jn1.jpg
+      alt: nanjin1
+      description: 小桥
+    - link: assets/images/jn2.jpg
+      alt: nanjin2
+      description: 大明湖
+    - link: assets/images/jn3.jpg
+      alt: nanjin3
+      description: 日落
